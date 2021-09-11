@@ -8,7 +8,6 @@ def print_hi(name):
 
 
 #### SET: unordered, unique (no duplicates) and must be immutable (cannot be changed).
-
 def my_set_test():
     # Different types of sets in Python # set of integers
     my_set = {1, 2, 3}
