@@ -2,7 +2,7 @@
 ####       and various file methods that you should be aware of.
 
 ### read(), readline(), readlines()
-def my_file__read():
+def my_file_read():
     f = open("sample.txt", "r")
     print(f.read())
     f.close()
@@ -26,6 +26,6 @@ def my_file_write():
 
 
 if __name__ == '__main__':
-    my_file__read()
+    my_file_read()
     my_file_write()
 
